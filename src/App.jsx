@@ -1,7 +1,7 @@
 export default function App() {
     return (
         <div>
-            <h1>This is cool</h1>
+            <h1>A blog app with app-write</h1>
         </div>
     )
 }
